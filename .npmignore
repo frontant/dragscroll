@@ -3,3 +3,5 @@
 .eslintrc.js
 .prettierignore
 .stylelintrc.js
+yarn.lock
+*.log
